@@ -1,12 +1,28 @@
-.header {
+h1,
+h2,
+h3 {
     color: grey;
     background-color:#f5d1ae;
     font-family: cursive;
+    font-size: 40px;
+}
+
+.main-title {
+    text-align: center;
+    font-size: 75px;
 
 }
 
-#page-title {
-    text-align: center;
-    font-size: 100px;
+.general-text {
+    font-size: 14px;
+}
 
+.subheader{
+    font-size: 25px;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    text-align: center;
 }
